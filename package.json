@@ -12,6 +12,7 @@
     "@nestjs/common": "^8.0.0",
     "@nestjs/core": "^8.0.0",
     "@nestjs/platform-express": "^8.0.0",
+    "morgan": "^1.10.0",
     "reflect-metadata": "^0.1.13",
     "rxjs": "^7.0.0",
     "tslib": "^2.0.0"
@@ -28,6 +29,7 @@
     "@nrwl/tao": "13.7.3",
     "@nrwl/workspace": "13.7.3",
     "@types/jest": "27.0.2",
+    "@types/morgan": "^1.9.3",
     "@types/node": "16.11.7",
     "@typescript-eslint/eslint-plugin": "~5.10.0",
     "@typescript-eslint/parser": "~5.10.0",
